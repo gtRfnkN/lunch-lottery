@@ -21,4 +21,4 @@ You can reset all the previous pairs by adding `-r` when starting the script.
 
 eg. `python lottery.py 'Adam Jon Mary Jane Max Zulu Roger'`
 
-Take care, as this *finally* deletes all the previous pairs. You might want to back up `data.json`.
+Take care, as this *ultimately* deletes all the previous pairs from `data.json`. You might want to back up `data.json`.
