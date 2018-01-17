@@ -1,6 +1,6 @@
 # lunch-lottery
 
-This is a simple python script for creating random lunch lottery pairs (or triples if an odd amount of participants). This script also persists already drawn picks and tries to avoid those pairs in the next shuffle. Also, the participants can be changed each time based on who wants to participate
+This is a simple python script for creating random lunch lottery pairs (or triples if an odd amount of participants). This script also persists already drawn picks and tries to avoid those pairs in the next shuffle. Also, the participants can be changed each time based on who wants to participate.
 
 # Usage
 
@@ -16,7 +16,7 @@ Mary & Adam
 Total of 3 combinations with a duplicate score of 0
 ```
 
-# Reseting old pairs
+# Resetting old pairs
 You can reset all the previous pairs by adding `-r` when starting the script.
 
 eg. `python lottery.py 'Adam Jon Mary Jane Max Zulu Roger'`
